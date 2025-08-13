@@ -1,5 +1,3 @@
-# calculadora-imc
-
 # 🧮 Calculadora de IMC
 
 Uma calculadora de **IMC (Índice de Massa Corporal)** feita com **HTML, CSS e JavaScript puro**, que permite inserir peso e altura para calcular o IMC e exibir a classificação de forma simples e visual.
