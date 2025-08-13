@@ -7,7 +7,7 @@ Uma calculadora de **IMC (Índice de Massa Corporal)** feita com **HTML, CSS e J
 ---
 
 ## 🎯 Demonstração
-![Demonstração da Calculadora de IMC](assets/img/demo.gif)
+https://douglasjhonyy.github.io/calculadora-imc/
 
 > 💡 *Projeto feito para fins de estudos*
 
